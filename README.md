@@ -1,3 +1,5 @@
+##HR-Analytics-Dashboard-(Power BI & Tableau)  
+
 ##Project Overview
 This project provides insights into employee attrition, job satisfaction, and department-wise trends using Power BI and Tableau.
 It helps HR teams make data-driven decisions to improve employee retention and workforce planning.
@@ -27,6 +29,6 @@ Tableau_Project.jpg
 (https://public.tableau.com/app/profile/niveditha.d/viz/TABLEAUPROJECT_17401349251980/HRANALYTICSDASHBOARD?publish=yes)
 
 ##Contact
-LinkedIn Profile - (https://www.linkedin.com/in/niveditha-d-46a02330b)  
-GitHub Profile - (https://github.com/Niveditha-2003)  
+LinkedIn: [Niveditha D](https://www.linkedin.com/in/niveditha-d-46a02330b)  
+GitHub  : [Niveditha-2003](https://github.com/Niveditha-2003)  
 
